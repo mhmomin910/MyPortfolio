@@ -1428,7 +1428,7 @@ textarea.form-input::-webkit-resizer {
     left: -43px;
   }
 
-  .skills-item:not(:last-child) {
+  .skills-item{
     margin-bottom: 25px;
   }
 
